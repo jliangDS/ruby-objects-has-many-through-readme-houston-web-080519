@@ -8,4 +8,5 @@ class Waiter
     @name = name 
     @yrs_experience = yrs_experience
   end 
+  
 end 
